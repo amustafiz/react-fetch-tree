@@ -59,7 +59,7 @@ import FetchTreeHook from "@reactfetchtree/rft/FetchTreeHook";
 ## Project contributors
 
 Trevor Carr 
-  - [linkedin](https://www.linkedin.com/in/trevor-carr-220481203/)
+  - [Linkedin](https://www.linkedin.com/in/trevor-carr-220481203/)
   - [Github](https://github.com/trevcarr95)
 
 Cara Dibdin
